@@ -15,6 +15,7 @@ Ecommerce Website: Implement a multi-page site with navigation.
 > - A responsive design.
 > - JavaScript interactivity.
 > - A deployment link.
+    deploy link: https://tangerine-swan-a85d5a.netlify.app/blog
 
 ## Tasks
 
